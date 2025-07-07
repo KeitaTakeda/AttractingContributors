@@ -12,4 +12,4 @@
 - Lucky Pierrot
 - A&W
 - burger King
-
+- McDonald’s
